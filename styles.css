@@ -365,6 +365,10 @@ div {
 
     /* PRODUCTS PAGE */
 
+.wrapper-product {
+    overflow-x: hidden;
+}
+
 :root {
     --bar-width: 50px;
     --bar-height: 5px;
